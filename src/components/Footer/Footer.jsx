@@ -75,7 +75,7 @@ function Footer() {
                     <div className={cx('footerSection')}>
                         <h3>HỢP TÁC & LIÊN KẾT</h3>
                         <ul>
-                            <li><Link to="/#">https://www.kieuminhtri.site/</Link></li>
+                            <li><Link to="/#">https://frontend-sales-system.vercel.app/</Link></li>
                             <li><Link to="/#">BeautySkin cẩm nang</Link></li>
                         </ul>
                         <h3>THANH TOÁN</h3>

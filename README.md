@@ -211,8 +211,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📝 Backend
 
--   Azure: https://mybeautyskinapp.azurewebsites.net/api
--   Local: https://github.com/trikmgithub/backendSalesSystem
+-   Render: https://backendsalessystem-dnuz.onrender.com/api
+-   Local: https://github.com/Hans2374/backendSalesSystem
 
 ## 🙏 Acknowledgments
 

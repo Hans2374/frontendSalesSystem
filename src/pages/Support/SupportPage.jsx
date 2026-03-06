@@ -111,7 +111,7 @@ const SupportPage = () => {
                 <div className={styles.col}>
                   <div className={styles.block_image_slogan}><span className={`${styles.icon_slogan} ${styles.icon_7}`}>&nbsp;</span></div>
                   <div className={styles.text_logo}>Tuyển dụng</div>
-                  <a href="https://www.kieuminhtri.site/tuyendung">&nbsp;</a>
+                  <a href="https://frontend-sales-system.vercel.app/tuyendung">&nbsp;</a>
                 </div>
               </div>
             </div>
